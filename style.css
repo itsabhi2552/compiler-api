@@ -1,0 +1,46 @@
+#header {
+    height: 10vh;
+}
+
+#text {
+    height: 57vh;
+    background-color: white;
+}
+
+#text .col-1 {
+    background-color: rgba(182, 180, 180, 0.5);
+}
+
+#line {
+    width: 100%;
+    height: 100%;
+    border: none;
+    outline: none;
+    resize: none;
+    overflow: hidden;
+}
+
+#input {
+    width: 100%;
+    height: 100%;
+    border: none;
+    outline: none;
+    resize: none;
+    overflow: auto;
+}
+
+#output {
+    height: 24vh;
+    color: white;
+    background-color: black;
+    overflow-y: auto;
+}
+
+#output-header {
+    height: 4vh;
+}
+
+#output-text {
+    margin-top: 0;
+    height: 4vh;
+}
